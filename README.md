@@ -8,7 +8,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-5.2+-1F6FEB?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 <br>
@@ -400,7 +399,6 @@ AstraBioEdge/
 ├── astrabioedge.py         # Ana uygulama (tek dosya, tüm modüller dahil)
 ├── requirements.txt        # Python bağımlılıkları
 ├── README.md               # Bu dosya
-├── LICENSE                  # MIT Lisansı
 │
 ├── bozuk_2bit_veri.csv     # Örnek veri seti (uygulama içinden üretilebilir)
 │
@@ -429,8 +427,7 @@ git commit -m "feat: yeni özellik eklendi"
 git push origin feature/yeni-ozellik
 
 # 5. Pull Request açın
-📄 Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır.
+
 
 📚 Referanslar
 Normand, E. (1996). Single Event Upset at Ground Level. IEEE Transactions on Nuclear Science.
@@ -440,6 +437,6 @@ Breiman, L. (2001). Random Forests. Machine Learning, 45(1), 5–32.
 <div align="center">
 AstraBioEdge — Uzayda veri bütünlüğü, yeryüzünde güvenilirlik.
 
-Geliştirici: Hayalden Gerçeğe Delta Space Takımı | 2025
+Geliştirici: Hayalden Gerçeğe Delta Space Takımı | 2026
 
 </div> ```
