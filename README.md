@@ -383,6 +383,7 @@ text
 │  │  (Barh)         │  │  R²=0.875                    │  │
 │  └─────────────────┘  └──────────────────────────────┘  │
 └─────────────────────────────────────────────────────────┘
+'
 🛠 Teknolojiler
 Kategori	Teknoloji	Kullanım Amacı
 Dil	Python 3.10+	Ana geliştirme dili
@@ -434,7 +435,10 @@ Normand, E. (1996). Single Event Upset at Ground Level. IEEE Transactions on Nuc
 Baumann, R.C. (2005). Radiation-Induced Soft Errors in Advanced Semiconductor Technologies. IEEE Transactions on Device and Materials Reliability.
 Hassler, D.M. et al. (2014). Mars' Surface Radiation Environment Measured with the Mars Science Laboratory's Curiosity Rover. Science, 343(6169).
 Breiman, L. (2001). Random Forests. Machine Learning, 45(1), 5–32.
-<div align="center">
+Louppe, G. (2014). Understanding Random Forests: From Theory to Practice. arXiv preprint arXiv:1407.7502.
+Scornet, E., Biau, G., & Vert, J. P. (2015). Consistency of Random Forests. The Annals of Statistics, 43(4), 1716–1741.
+Hastie, T., Tibshirani, R., & Friedman, J. (2009). The Elements of Statistical Learning (2nd ed.). Springer.
+
 AstraBioEdge — Uzayda veri bütünlüğü, yeryüzünde güvenilirlik.
 
 Geliştirici: Hayalden Gerçeğe Delta Space Takımı | 2026
